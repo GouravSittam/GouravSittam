@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **my projects which I am working on.**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C, C++, DBMS, OS, CN etc.**
+- 💬 Ask me about **HTML, CSS, JavaScript, Nodejs, C, C++, DBMS, OS, CN etc.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/GouravSittam/**
 
