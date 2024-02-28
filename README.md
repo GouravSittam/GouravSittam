@@ -1,4 +1,5 @@
 ![GG](https://github.com/GouravSittam/GouravSittam/assets/118460171/82b94533-849e-460a-8b7e-c9e7c5699a16)
+![GG](https://github.com/GouravSittam/GouravSittam/assets/118460171/2e1982c6-26ef-47bd-862f-647517e4ab67)
 
 <h1 align="center">Hi 👋, I'm Gourav Chaudhary</h1>
 <h3 align="center">A FULL STACK WEB DEVELOPER.</h3>
