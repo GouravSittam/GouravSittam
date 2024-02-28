@@ -1,4 +1,6 @@
-![GG](https://github.com/GouravSittam/GouravSittam/assets/118460171/82b94533-849e-460a-8b7e-c9e7c5699a16)
+![pixels-neon](https://github.com/GouravSittam/GouravSittam/assets/118460171/6032b4a8-d348-4282-a023-2c8c654c0018)
+
+
 <h1 align="center">Hi 👋, I'm Gourav Chaudhary</h1>
 <h3 align="center">A FULL STACK WEB DEVELOPER.</h3>
 
