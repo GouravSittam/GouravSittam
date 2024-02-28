@@ -1,4 +1,4 @@
-![Gourav gif](https://github.com/GouravSittam/GouravSittam/assets/118460171/9273bfb8-0882-40a2-a0fb-178b63328fcf)
+![GG](https://github.com/GouravSittam/GouravSittam/assets/118460171/82b94533-849e-460a-8b7e-c9e7c5699a16)
 
 <h1 align="center">Hi 👋, I'm Gourav Chaudhary</h1>
 <h3 align="center">A FULL STACK WEB DEVELOPER.</h3>
