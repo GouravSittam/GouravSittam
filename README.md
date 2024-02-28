@@ -1,4 +1,4 @@
-![pixels-neon](https://github.com/GouravSittam/GouravSittam/assets/118460171/6032b4a8-d348-4282-a023-2c8c654c0018)
+![Dgrv](https://github.com/GouravSittam/GouravSittam/assets/118460171/3bcef94b-d295-48a3-a334-0fa7fdafc831)
 
 
 <h1 align="center">Hi 👋, I'm Gourav Chaudhary</h1>
