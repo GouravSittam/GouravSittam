@@ -1,6 +1,6 @@
 ![Dgrv](https://github.com/GouravSittam/GouravSittam/assets/118460171/3bcef94b-d295-48a3-a334-0fa7fdafc831)
 
-<h1 align="center">Hi 👋, I'm Gourav Chaudhary</h1>
+<h1 align="center"><i>Hi 👋, I'm Gourav Chaudhary</i></h1>
 <h3 align="center">A FULL STACK WEB DEVELOPER.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
