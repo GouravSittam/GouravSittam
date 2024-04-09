@@ -1,6 +1,5 @@
 ![Dgrv](https://github.com/GouravSittam/GouravSittam/assets/118460171/3bcef94b-d295-48a3-a334-0fa7fdafc831)
 
-![snake gif](https://github.com/GouravSittam/GouravSittam/blob/output/github-contribution-grid-snake.gif)
 
 
 <h1 align="center"><i>Hi 👋, I'm Gourav Chaudhary</i></h1>
