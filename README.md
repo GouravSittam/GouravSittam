@@ -1,7 +1,7 @@
 <!-- Snake Eating Contribution Stat -->
 <div>
 <img src="https://raw.githubusercontent.com/GouravSittam/GouravSittam/output/snake.svg" alt="Snake animation" />
-</div>
+</div><hr>
 
 <h1 align="center"><i>Hi 👋, I'm Gourav Chaudhary</i></h1>
 <h3 align="center">A FULL STACK WEB DEVELOPER.</h3>
