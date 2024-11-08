@@ -13,7 +13,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=aws,c,cs,cpp,cloudflare,css,discord,bots,docker,electron,ember,emotion,express,fastapi,figma,firebase,flask,gcp,git,github,html,ai,ipfs,js,jest,linux,md,mastodon,mongodb,neovim,netlify,nextjs,nginx,nodejs,postgres,postman,powershell,py,react,redis,regex,replit,rocket,rust,sqlite,mysql,stackoverflow,styledcomponents,supabase,sentry,solidity,svg,tailwind,tauri,twitter,ts,unity,v,vercel,vim,vite,wasm,webpack,instagram,workers&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,c,cs,cpp,cloudflare,css,discord,docker,express,fastapi,figma,firebase,flask,git,github,html,ai,js,linux,mongodb,netlify,nextjs,nodejs,postgres,postman,powershell,py,react,regex,mysql,stackoverflow,supabase,svg,tailwind,twitter,ts,unity,v,vercel,vite,instagram,vscode,bootstrap,pycharm&perline=8&theme=dark" />
 </p>
 
 <p align="center"> <img align="center" src="https://github-readme-stats-sync.vercel.app/api?username=GouravSittam&count_private=true&show_icons=true&theme=radical&border_radius=10" alt="GouravSittam" /></p>
