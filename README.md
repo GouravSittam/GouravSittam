@@ -4,6 +4,7 @@
 </div><hr>
 <h1 align="center"><i>Hi 👋, I'm Gourav Chaudhary</i></h1>
 <h3 align="center"><i>A FULL STACK WEB DEVELOPER.</i></h3>
+<p align="center"><a href="https://discord.com/users/1211708654982799422"><img src="https://lanyard.cnrad.dev/api/1211708654982799422?theme=dark&showDisplayName=true&hideClan=true&idleMessage=Debugging%20life%2C%20one%20line%20of%20code%20at%20a%20time."></a></p>
 <br>
 <br>
 <!-- Views -->
