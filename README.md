@@ -17,7 +17,7 @@
 </p>
 <br>
 
-<p align="center"> <img align="center" src="https://github-readme-stats-sync.vercel.app/api?username=GouravSittam&count_private=true&show_icons=true&theme=radical&border_radius=10" alt="GouravSittam" /></p>
+<!--<p align="center"> <img align="center" src="https://github-readme-stats-sync.vercel.app/api?username=GouravSittam&count_private=true&show_icons=true&theme=radical&border_radius=10" alt="GouravSittam" /></p> -->
 <!-- <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GouravSittam&theme=dracula&hide_border=true" alt="GouravSittam" /></p> -->
 
 
