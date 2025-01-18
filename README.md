@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/GouravSittam/GouravSittam/output/snake.svg" alt="Snake animation" />
 </div><hr>
 <h1 align="center"><i>Hi 👋, I'm Gourav Chaudhary</i></h1>
-<h3 align="center"><i>A FULL STACK WEB DEVELOPER.</i></h3>
+<h3 align="center"><i>A NOOB FULL STACK WEB DEVELOPER.</i></h3>
 <p align="center"><a href="https://discord.com/users/1211708654982799422"><img src="https://lanyard.cnrad.dev/api/1211708654982799422?idleMessage=Nowadays%2C%20I%E2%80%99m%20taking%20an%20overdose%20of%20JavaScript%F0%9F%A4%AA%F0%9F%98%B5&theme=&borderRadius=&bg=000000" /></a></p>
 <br>
 <br>
