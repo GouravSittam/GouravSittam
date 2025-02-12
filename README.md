@@ -11,6 +11,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GouravSittam&label=Profile%20views&color=0e75b6&style=flat" alt="GouravSittam" /> </p>
 <br>
 
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <img src="https://skillicons.dev/icons?i=aws,java,cloudflare,css,discord,docker,express,fastapi,figma,firebase,flask,git,github,html,ai,js,linux,mongodb,netlify,nextjs,nodejs,postgres,postman,powershell,py,react,regex,mysql,stackoverflow,supabase,svg,tailwind,twitter,ts,v,vercel,vite,instagram,vscode,bootstrap,pycharm,maven,npm,GPT&perline=8&theme=dark" />
