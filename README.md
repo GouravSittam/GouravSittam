@@ -7,6 +7,7 @@
 <p align="center"><a href="https://discord.com/users/1211708654982799422"><img src="https://lanyard.cnrad.dev/api/1211708654982799422?idleMessage=Nowadays%2C%20I%E2%80%99m%20taking%20an%20overdose%20of%20JavaScript%F0%9F%A4%AA%F0%9F%98%B5&theme=&borderRadius=&bg=000000" /></a></p>
 <br>
 <br>
+
 <!-- Views -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GouravSittam&label=Profile%20views&color=0e75b6&style=flat" alt="GouravSittam" /> </p>
 <br>
