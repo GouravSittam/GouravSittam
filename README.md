@@ -14,6 +14,7 @@
 <br>
 
 
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <img src="https://skillicons.dev/icons?i=aws,java,cloudflare,css,discord,docker,express,fastapi,figma,firebase,flask,git,github,html,ai,js,linux,mongodb,netlify,nextjs,nodejs,postgres,postman,powershell,py,react,regex,mysql,stackoverflow,supabase,svg,tailwind,twitter,ts,v,vercel,vite,instagram,vscode,bootstrap,pycharm,maven,npm,astro&perline=8&theme=dark" />
