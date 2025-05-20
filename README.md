@@ -21,10 +21,12 @@
 <br>
 
 <!-- GitHub Stats Card -->
-<br><br>
+
+<!--<br><br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=GouravSittam&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" alt="GouravSittam's GitHub Stats" />
 </div>
+-->
 
 
 <!-- <p align="center"> <img align="center" src="https://github-readme-stats-sync.vercel.app/api?username=GouravSittam&count_private=true&show_icons=true&theme=radical&border_radius=10" alt="GouravSittam" /></p> -->
