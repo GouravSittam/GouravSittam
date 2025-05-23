@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Personal%20Website-green?style=for-the-badge&logo=github" />
   </a>
 </p>
--->
+
 ---
 
 ## 🏆 Achievements & Highlights
@@ -103,7 +103,7 @@
 - 🏆 Multiple hackathon finalist and winner
 - ✍️ Author of high-impact blogs and tutorials
 - 🌍 Built apps used by thousands of users
-
+-->
 ---
 
 ## 💡 Quotes I Live By
