@@ -10,13 +10,13 @@
   <i>Hey there, I'm Gourav Chaudhary</i>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </h1>
-<h3 align="center"><i>Curious | Creative | Full Stack Web Developer</i></h3>
+<!-- <h3 align="center"><i>Curious | Creative | Full Stack Web Developer</i></h3> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://discord.com/users/1211708654982799422">
     <img src="https://lanyard.cnrad.dev/api/1211708654982799422?idleMessage=Currently%20consuming%20JavaScript%20like%20coffee%20%F0%9F%8D%B5&theme=dark&borderRadius=15px&bg=18181B" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/GouravSittam">
@@ -56,7 +56,7 @@
 
 ---
 
-## 📈 GitHub Stats, Streaks & Activity
+<!-- ## 📈 GitHub Stats, Streaks & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GouravSittam&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="47%" />
@@ -65,7 +65,7 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GouravSittam&radius=16&theme=redical&area=true&order=5" height="280" alt="Activity Graph" />
-</div>
+</div> -->
 
 ---
 
