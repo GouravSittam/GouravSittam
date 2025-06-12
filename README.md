@@ -1,119 +1,278 @@
-<!-- 🐍 Animated Snake Contribution Stat -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/GouravSittam/GouravSittam/output/snake.svg" alt="Snake Eating Contributions" />
 </div>
 <hr>
 
+<!-- Aesthetic Glowing Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- Enhanced Header with Gradient Background -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20Gourav%20Chaudhary&descAlignY=55&descAlign=50&descSize=20" />
+</div>
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  <i>Hey there, I'm Gourav Chaudhary</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </h1>
-<!-- <h3 align="center"><i>Curious | Creative | Full Stack Web Developer</i></h3> -->
 
-<!-- <p align="center">
-  <a href="https://discord.com/users/1211708654982799422">
-    <img src="https://lanyard.cnrad.dev/api/1211708654982799422?idleMessage=Currently%20consuming%20JavaScript%20like%20coffee%20%F0%9F%8D%B5&theme=dark&borderRadius=15px&bg=18181B" />
-  </a>
-</p> -->
+<!-- Enhanced Profile Stats -->
+<div align="center">
+  
+### ✨ **DIGITAL PRESENCE** ✨
 
-<p align="center">
+<p>
   <a href="https://github.com/GouravSittam">
-    <img src="https://komarev.com/ghpvc/?username=GouravSittam&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/👁️‍🗨️_Profile_Views-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E" />
+    <img src="https://komarev.com/ghpvc/?username=GouravSittam&label=&style=flat-square&color=FF6B6B" />
   </a>
-  <img src="https://img.shields.io/badge/-Open%20to%20Work-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
 </p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/🚀_Open_to_Work-00D4AA?style=for-the-badge&labelColor=1A1A2E&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚡_JavaScript-FFD93D?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1A1A2E" />
+  <img src="https://img.shields.io/badge/⚛️_React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1A1A2E" />
+  <img src="https://img.shields.io/badge/🟢_Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1A1A2E" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1200&color=F76D6D&center=true&vCenter=true&width=600&lines=Eat%2C+Sleep%2C+Code%2C+Repeat!;Turning+ideas+into+reality+with+code.;Let%E2%80%99s+innovate+together!;Always+learning%2C+always+building." />
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-- 🎯 **Focus:** Full-stack web development, AI integrations, open-source, and creative coding
-- 🏗️ **Building:** Fun, scalable, and impactful web projects
-- 💡 **Interests:** JavaScript, React, Node.js, Next.js, UI/UX, Cloud, Automation
-- 🌱 **Learning:** AI, Machine Learning, DevOps, advanced backend architecture
-- 🤝 **Open For:** Collaborations, hackathons, freelance, open-source
-- 🥅 **Goals:** Launch a SaaS product, contribute to awesome projects, and help others grow
-- ⚡ **Fun Fact:** I love debugging so much, sometimes I dream in code!
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,java,cloudflare,css,discord,docker,express,fastapi,figma,firebase,flask,git,github,html,ai,js,linux,mongodb,netlify,nextjs,nodejs,postgres,postman,powershell,py,react,regex,mysql,stackoverflow,supabase,svg,tailwind,twitter,ts,v,vercel,vite,instagram,vscode,bootstrap,pycharm,maven,npm,astro&perline=12&theme=dark" />
-</p>
-
----
-
-<!-- ## 📈 GitHub Stats, Streaks & Activity
-
+<!-- Animated Divider -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GouravSittam&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GouravSittam&theme=radical&hide_border=true" alt="GitHub Streak" width="47%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
+<!-- Dynamic Typing Animation -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GouravSittam&radius=16&theme=redical&area=true&order=5" height="280" alt="Activity Graph" />
-</div> -->
-
----
-
-## 🌐 Where to Find Me
-
-<p align="center">
-  <a href="mailto:gouravsittam@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/gouravsittam"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Gouravv_c"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/gouravv.c/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://dev.to/gouravsittam"><img src="https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" /></a>
-</p>
-
----
-
-<!-- ## 🚀 My Repositories to Check Out
-
-<p align="center">
-  <a href="https://github.com/GouravSittam/DevTinder">
-    <img src="https://img.shields.io/badge/DevTinder-Full%20Stack%20Dev%20Matchmaker-blueviolet?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/GouravSittam/AlgoWizard">
-    <img src="https://img.shields.io/badge/AlgoWizard-Algorithm%20Visualizer-orange?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/GouravSittam/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Personal%20Website-green?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🥇 Top contributor in several open-source projects
-- 🏆 Multiple hackathon finalist and winner
-- ✍️ Author of high-impact blogs and tutorials
-- 🌍 Built apps used by thousands of users
--->
----
-
-## 💡 Quotes I Live By
-
-> <!--QUOTE_START-->
-“Code is like humor. When you have to explain it, it’s bad.”  
-— Cory House
-> <!--QUOTE_END-->
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" />
-  <h3>Let's build something amazing together! 🚀</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1200&color=F76D6D&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🍕+Eat%2C+💤+Sleep%2C+💻+Code%2C+🔄+Repeat!;🚀+Turning+ideas+into+reality+with+code;🤝+Let's+innovate+together!;📚+Always+learning%2C+🏗️+always+building" />
 </div>
+
+<!-- Glowing Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+## 🧑‍💻 **ABOUT THE DEVELOPER**
+
+<table>
+<tr>
+<td width="60%">
+
+### 🎯 **FOCUS & EXPERTISE**
+- 🎨 **Full-stack web development** - Crafting end-to-end solutions
+- 🤖 **AI integrations** - Building intelligent applications  
+- 🌟 **Open-source contributions** - Giving back to the community
+- ✨ **Creative coding** - Where art meets technology
+
+### 🏗️ **CURRENTLY BUILDING**
+- 🚀 **Scalable web projects** that make an impact
+- 🎮 **Interactive applications** with seamless UX
+- 🔧 **Developer tools** to boost productivity
+
+### 💡 **TECH INTERESTS**
+- ⚛️ **Frontend:** React, Next.js, Modern CSS
+- 🔧 **Backend:** Node.js, Express, APIs
+- ☁️ **Cloud & DevOps:** AWS, Docker, CI/CD
+- 🎨 **Design:** UI/UX, Responsive Design
+
+</td>
+<td width="40%">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  
+  <br><br>
+  
+  ```yaml
+  🌱 Currently Learning:
+    - AI & Machine Learning
+    - Advanced Backend Architecture  
+    - DevOps Best Practices
+    - Cloud Native Development
+  
+  🤝 Open For:
+    - Exciting Collaborations
+    - Hackathon Partnerships
+    - Freelance Projects
+    - Open Source Contributions
+  
+  🥅 2024 Goals:
+    - Launch a SaaS Product
+    - Mentor Junior Developers
+    - Contribute to Major OSS
+    - Build Something Amazing
+  ```
+</div>
+
+</td>
+</tr>
+</table>
+
+### ⚡ **FUN DEVELOPER FACT**
+> *I love debugging so much, sometimes I dream in code! 🐛💭*
+
+<!-- Aesthetic Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+## 🛠️ **TECH ARSENAL & SUPERPOWERS**
+
+<div align="center">
+
+### 🎨 **DESIGN TO CODE**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,html,css,sass,tailwind,bootstrap&theme=dark" />
+</p>
+
+### ⚡ **FRONTEND MASTERY**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,astro&theme=dark" />
+</p>
+
+### 🔥 **BACKEND WIZARDRY**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,java&theme=dark" />
+</p>
+
+### 💾 **DATABASE SORCERY**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase&theme=dark" />
+</p>
+
+### ☁️ **CLOUD & DEVOPS**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,netlify&theme=dark" />
+</p>
+
+### 🔧 **DEVELOPMENT TOOLS**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,vite,webpack,linux&theme=dark" />
+</p>
+
+</div>
+
+<!-- Glowing Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+## 🌐 **CONNECT & COLLABORATE**
+
+<div align="center">
+
+### 💫 **Let's Build Something Amazing Together!** 💫
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+**📧 EMAIL**
+<br><br>
+<a href="mailto:gouravsittam@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
+<br>
+*Quick Response*
+
+</td>
+<td align="center" width="20%">
+
+**💼 LINKEDIN**
+<br><br>
+<a href="https://linkedin.com/in/gouravsittam">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+<br>
+*Professional Network*
+
+</td>
+<td align="center" width="20%">
+
+**🐦 TWITTER**
+<br><br>
+<a href="https://x.com/Gouravv_c">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" />
+</a>
+<br>
+*Tech Updates*
+
+</td>
+<td align="center" width="20%">
+
+**📸 INSTAGRAM**
+<br><br>
+<a href="https://www.instagram.com/gouravv.c/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
+</a>
+<br>
+*Life & Code*
+
+</td>
+<td align="center" width="20%">
+
+**✍️ DEV.TO**
+<br><br>
+<a href="https://dev.to/gouravsittam">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=000000" />
+</a>
+<br>
+*Articles & Tutorials*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Inspirational Footer -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  
+  ### 💭 **DAILY MOTIVATION**
+  
+  > *"The best time to plant a tree was 20 years ago. The second best time is now."*
+  > **— Chinese Proverb**
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=💻+Code+with+passion;🚀+Build+with+purpose;🌟+Share+knowledge;⚡+Never+stop+learning" />
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Let's%20connect%20and%20create%20something%20extraordinary!&descAlignY=80&descAlign=50&descSize=14" />
+</div>
+
+<!-- Final Touch -->
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=300&lines=Happy+Coding!+🚀;Keep+Building!+💫;Stay+Awesome!+⚡" />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+</div>
+```
+
+## ✨ **Aesthetic Enhancements Applied:**
+
+### 🎨 **Visual Improvements:**
+- **Gradient Headers/Footers**: Beautiful capsule renders with custom colors
+- **Animated Dividers**: Glowing separators for visual breaks
+- **Enhanced Typography**: Multiple font styles (Orbitron, Fira Code)
+- **Color Harmony**: Consistent purple/pink/gold theme throughout
+- **Improved Spacing**: Better visual hierarchy and breathing room
+
+### 🌟 **Interactive Elements:**
+- **Dynamic Typing**: Multi-line animated text with emojis
+- **Enhanced Badges**: Styled with custom colors and labels
+- **Organized Layout**: Table-based contact section
+- **Skill Categories**: Grouped tech stack by functionality
+- **Profile Analytics**: Styled view counter and status badges
+
+### 🎭 **Professional Polish:**
+- **Structured Content**: Clear sections with visual separators
+- **Consistent Branding**: Unified color scheme and styling
+- **Responsive Design**: Works well on all screen sizes
+- **Engaging Content**: Personal touches and motivational quotes
+- **Clean Code**: Well-organized markdown structure
+
