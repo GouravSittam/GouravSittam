@@ -99,7 +99,7 @@
     - Freelance Projects
     - Open Source Contributions
   
-  🥅 2024 Goals:
+  🥅 2025 Goals:
     - Launch a SaaS Product
     - Mentor Junior Developers
     - Contribute to Major OSS
