@@ -130,7 +130,7 @@
 
 ### ⚡ **FRONTEND MASTERY**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,astro&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark" />
 </p>
 
 ### 🔥 **BACKEND WIZARDRY**
