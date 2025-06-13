@@ -126,12 +126,18 @@
 
 ### 🎨 **DESIGN TO CODE**
 <p>
+  <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,html,css,sass,tailwind,bootstrap&theme=dark" />
+  <br />
+  <img src="https://img.shields.io/badge/Shadcn_UI-%2320232a?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Magic_UI-%23535355?style=for-the-badge&logo=react&logoColor=white" />
+</div>
+
 </p>
 
 ### ⚡ **FRONTEND MASTERY**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,&theme=dark" />
 </p>
 
 ### 🔥 **BACKEND WIZARDRY**
@@ -141,7 +147,7 @@
 
 ### 💾 **DATABASE SORCERY**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase&theme=dark" />
 </p>
 
 ### ☁️ **CLOUD & DEVOPS**
