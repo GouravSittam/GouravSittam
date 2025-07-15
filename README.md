@@ -20,6 +20,8 @@
     <img src="https://img.shields.io/badge/Loveable-%23535355?style=for-the-badge&logo=heart&logoColor=white" />
     <img src="https://img.shields.io/badge/bolt.new-%23535355?style=for-the-badge&logo=zap&logoColor=white" />
 <img src="https://img.shields.io/badge/21st.dev-%23535355?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+<img src="https://img.shields.io/badge/Replit-%23535355?style=for-the-badge&logo=replit&logoColor=white" />
+
 
 
 </div>
