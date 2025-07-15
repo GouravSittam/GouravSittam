@@ -43,7 +43,7 @@
 
 ### 🔧 **DEVELOPMENT TOOLS**
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,vite,webpack,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,vite,webpack,linux,bun&theme=dark" />
 </p>
 
 </div>
