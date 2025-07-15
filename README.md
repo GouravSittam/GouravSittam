@@ -13,10 +13,15 @@
 ### 🎨 **DESIGN TO CODE**
 <p>
   <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,sass,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,sass,tailwind,bootstrap,&theme=dark" />
   <br />
   <img src="https://img.shields.io/badge/Shadcn_UI-%2320232a?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Magic_UI-%23535355?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Loveable-%23535355?style=for-the-badge&logo=heart&logoColor=white" />
+    <img src="https://img.shields.io/badge/bolt.new-%23535355?style=for-the-badge&logo=zap&logoColor=white" />
+<img src="https://img.shields.io/badge/21st.dev-%23535355?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+
+
 </div>
 
 </p>
