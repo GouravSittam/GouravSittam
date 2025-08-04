@@ -1,4 +1,3 @@
-<!--Bhai tu itna free kese hai jo tu aj v aa gya mera commit dekhne???-->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/GouravSittam/GouravSittam/output/snake.svg" alt="Snake Eating Contributions" />
