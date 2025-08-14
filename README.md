@@ -36,7 +36,7 @@
 
 ### 🔥 **BACKEND WIZARDRY**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,java&theme=dark" />
 </p>
 
 ### 💾 **DATABASE SORCERY**
