@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Gourav Sittam - Light Mode Banner</title>
+  <desc id="desc">Light themed banner for GitHub profile README.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)" rx="24"/>
+  <text x="60" y="140" fill="#0f172a" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="56" font-weight="700">Hi, I'm Gourav 👋</text>
+  <text x="60" y="200" fill="#334155" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="30">Welcome to my GitHub profile</text>
+  <text x="60" y="248" fill="#0284c7" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="24">Building • Learning • Shipping</text>
+</svg>
